@@ -2,9 +2,9 @@
 <h3 align="center">A passionate in Development from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [[https://github.com/sanjay-mu](https://github.com/Rahul7519?tab=repositories)]([https://github.com/sanjay-munde](https://github.com/Rahul7519?tab=repositories))
+- 👨‍💻 All of my projects are available at [[https://github.com/Rahul7519?tab=repositories](https://github.com/Rahul7519?tab=repositories)](https://github.com/Rahul7519?tab=repositories))
 
-- 📫 How to reach me **sanjaymunde36@gmail.com**
+- 📫 How to reach me **ghadgerahul18@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ghadge-153220183/) 
