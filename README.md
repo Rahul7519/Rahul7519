@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rahul Ghadge</h1>
 <h3 align="center">A passionate in Development from India</h3>
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-ghadge-153220183/) 
 
 # 💻 Tech Stack:
 | Languages | Cloud and Hosting | Databases | Frameworks and Libraries | Design and Multimedia Tools | Data Science and Machine Learning | Other Tools and Platforms |
