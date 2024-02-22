@@ -1,5 +1,5 @@
-Hi 👋, I'm Rahul Ghadge
-
+<h1 align="center">Hi 👋, I'm Rahul Ghadge</h1>
+<h3 align="center">A passionate in Development from India</h3>
 <!--
 **Rahul7519/Rahul7519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
