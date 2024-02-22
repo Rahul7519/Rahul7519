@@ -2,7 +2,7 @@
 <h3 align="center">A passionate in Development from India</h3>
 
 
-- 👨‍💻 All of my projects are available at [[https://github.com/Rahul7519?tab=repositories](https://github.com/Rahul7519?tab=repositories)](https://github.com/Rahul7519?tab=repositories))
+- 👨‍💻 All of my projects are available at [[https://github.com/Rahul7519?tab=repositories](https://github.com/Rahul7519?tab=repositories)]
 
 - 📫 How to reach me **ghadgerahul18@gmail.com**
 
